@@ -1,0 +1,12 @@
+# ignore ALL .log files
+*.log
+
+
+# dotenv environment variables file
+.env
+.env.test
+
+
+# ignore ALL files in ANY directory named temp
+temp/
+/node_modules
